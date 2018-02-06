@@ -79,7 +79,6 @@ hr.style-seven-bottom { /* Not really supposed to work, but does */
 }
 
 .navi {
-    letter-spacing: 3px;
     font-family: 'Eczar', serif;
     color: whitesmoke;
     text-align: center;
@@ -200,4 +199,14 @@ CSS for Footer
     color: white;
     text-align: center;
 
+}
+
+#portfolioLinks {
+    margin:auto;
+    padding: auto;
+}
+.card {
+    float: left;
+    width: 18rem;
+    margin: 20px;
 }
